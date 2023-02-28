@@ -1,6 +1,5 @@
 ### Hey you found me 🙈! I'm Roopesh Jampala
-![image](https://user-images.githubusercontent.com/92547312/221757263-9cd78aba-7cd1-41e3-bd29-723cb816d5bd.png)
-My favourite care: The Porsche 930 Turbo
+---
 
 #### 👋 About Me
 I'm Roopesh Jampala, I also go by Roopesh Mikkilineni. I had a name change in recent times and it hasn't been update everywhere just yet. I am a undergraduate student at Georgia State University studying Data Science. I am deeply interested in becoming better at machine learning practices and implementations. Some of my interestes in the data science world include network traffic optimization, object detection in sports film, and video game data. 
@@ -16,3 +15,7 @@ Outside of school I love playing sports and any sort of outdoor activity. Recent
 #### 🔗 Links / Contacts 
 Linkedin: https://www.linkedin.com/in/roopesh-jampala/
 Email: jampalaroopesh@gmail.com
+
+#### 🏎️ Fun Fact
+My favourite car is the Porsche 930 Turbo:
+![image](https://user-images.githubusercontent.com/92547312/221757263-9cd78aba-7cd1-41e3-bd29-723cb816d5bd.png)
